@@ -1,6 +1,6 @@
 # Financial_Analysis
 
-This Python script is designed as a comprehensive tool for teaching fundamentals of investment analysis and decision-making. The script assumes all investments are discounted to year 0 (cash_flows[0]).
+This Python script is designed as a comprehensive tool for teaching fundamentals of investment analysis and decision-making. The script assumes all investments will be discounted to year 0 (cash_flows[0]).
 
 Its functionalities include:
 
